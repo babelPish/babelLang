@@ -96,3 +96,18 @@ https://www.facebook.com/events/1875506769406938/
 - (실습) 04장: 시스템 구조
 * (뉴스NLP) 박은정
 - Tracing armed conflicts with diachronic word embedding models - http://aclweb.org/anthology/W/W17/W17-2705.pdf
+
+
+
+#바벨피쉬X싸이랭X싸이지먼트 2/24, 토, 바벨랭 : 시즌 1 - 7회차 스터디 
+https://www.facebook.com/events/189857964949974/
+
+장소 : 메가존(역삼역 3번 출구, 갈라빌딩 지하 1층)
+
+내용
+
+* (한국어 자연어처리) 김성근
+- (실습) scikit-learn pipeline (text classification 예제)
+
+* (검색엔진) Young Sook Song
+- (실습) 04장: 시스템 구조 (2)
