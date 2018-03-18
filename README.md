@@ -8,7 +8,7 @@
 ## 바벨피쉬X싸이랭X싸이지먼트 격주 토, 바벨랭 : 1/6, 토 시즌 1 - 1회차 스터디
 * 이벤트 링크 -  
 
-https://www.facebook.com/events/1906518546331801/
+https://www.facebook.com/events/1906518546331801/  
 장소 : 메가존(역삼역 3번 출구, 갈라빌딩 지하 1층)
 
 
@@ -32,7 +32,7 @@ http://ml4ed.cc/attachments/LanBoolean.pptx
 
 ## 바벨피쉬X싸이랭X싸이지먼트 1/13, 토, 바벨랭 : 시즌 1 - 2회차 스터디  
 
-* 이벤트 링크 -https://www.facebook.com/events/170843440197710/
+* 이벤트 링크 -https://www.facebook.com/events/170843440197710/  
 장소 : 메가존(역삼역 3번 출구, 갈라빌딩 지하 1층)
 
 
@@ -57,7 +57,7 @@ http://ml4ed.cc/attachments/LanBoolean.pptx
 
 ## 바벨피쉬X싸이랭X싸이지먼트 1/20, 토, 바벨랭 : 시즌 1 - 3회차 스터디  
 
-* 이벤트 링크 - https://www.facebook.com/events/178674889390617/
+* 이벤트 링크 - https://www.facebook.com/events/178674889390617/  
 장소 : 메가존(역삼역 3번 출구, 갈라빌딩 지하 1층)
 
 
@@ -79,7 +79,7 @@ http://ml4ed.cc/attachments/RitterEliminating.pptx
 
 ## 바벨피쉬X싸이랭X싸이지먼트 1/27, 토, 바벨랭 : 시즌 1 - 4회차 스터디  
 
-* 이벤트 링크 - https://www.facebook.com/events/167899553846462/
+* 이벤트 링크 - https://www.facebook.com/events/167899553846462/  
 장소 : 메가존(역삼역 3번 출구, 갈라빌딩 지하 1층)
 
 
@@ -99,7 +99,7 @@ http://aclweb.org/anthology/W/W17/W17-2704.pdf
 ## 바벨피쉬X싸이랭X싸이지먼트 2/3, 토, 바벨랭 : 시즌 1 - 5회차 스터디
 * 이벤트 링크  
 
-https://www.facebook.com/events/891308814357976/
+https://www.facebook.com/events/891308814357976/  
 장소 : 메가존(역삼역 3번 출구, 갈라빌딩 지하 1층)
 
 내용
@@ -120,7 +120,6 @@ http://ml4ed.cc/attachments/AbbeelGradescope.pdf
 * 이벤트 링크  
 
 https://www.facebook.com/events/1875506769406938/  
-
 장소 : 메가존(역삼역 3번 출구, 갈라빌딩 지하 1층)
 
 
@@ -138,7 +137,7 @@ http://aclweb.org/anthology/W/W17/W17-2705.pdf
 
 ## 바벨피쉬X싸이랭X싸이지먼트 2/24, 토, 바벨랭 : 시즌 1 - 7회차 스터디  
 
-https://www.facebook.com/events/189857964949974/
+https://www.facebook.com/events/189857964949974/  
 장소 : 메가존(역삼역 3번 출구, 갈라빌딩 지하 1층)
 
 
